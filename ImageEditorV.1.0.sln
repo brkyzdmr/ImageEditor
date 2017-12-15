@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEditorV.1.0", "ImageEditorV.1.0\ImageEditorV.1.0.csproj", "{95586C79-54C4-41B2-81F8-144FA3AB9A87}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Image Editor", "ImageEditorSetup\ImageEditorSetup.vdproj", "{04082E51-756A-4134-85A5-CF2CCD5CD748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95586C79-54C4-41B2-81F8-144FA3AB9A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95586C79-54C4-41B2-81F8-144FA3AB9A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95586C79-54C4-41B2-81F8-144FA3AB9A87}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{95586C79-54C4-41B2-81F8-144FA3AB9A87}.Debug|Default.Build.0 = Debug|Any CPU
+		{95586C79-54C4-41B2-81F8-144FA3AB9A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95586C79-54C4-41B2-81F8-144FA3AB9A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95586C79-54C4-41B2-81F8-144FA3AB9A87}.Release|Default.ActiveCfg = Release|Any CPU
+		{95586C79-54C4-41B2-81F8-144FA3AB9A87}.Release|Default.Build.0 = Release|Any CPU
+		{04082E51-756A-4134-85A5-CF2CCD5CD748}.Debug|Any CPU.ActiveCfg = Debug
+		{04082E51-756A-4134-85A5-CF2CCD5CD748}.Debug|Default.ActiveCfg = Debug
+		{04082E51-756A-4134-85A5-CF2CCD5CD748}.Debug|Default.Build.0 = Debug
+		{04082E51-756A-4134-85A5-CF2CCD5CD748}.Release|Any CPU.ActiveCfg = Release
+		{04082E51-756A-4134-85A5-CF2CCD5CD748}.Release|Any CPU.Build.0 = Release
+		{04082E51-756A-4134-85A5-CF2CCD5CD748}.Release|Default.ActiveCfg = Release
+		{04082E51-756A-4134-85A5-CF2CCD5CD748}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F700CFAC-181E-46A0-82E5-851C0D98772E}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
